@@ -2,8 +2,8 @@
 
 ## todo
 
-- [ ] make it deploy
-- [ ] scaffold basic ui with mock data
+- [x] make it deploy
+- [x] scaffold basic ui with mock data
 - [ ] set up data
 - [ ] attach database to ui
 - [ ] add authentication
